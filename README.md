@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaroslaw91&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaroslaw91&show_icons=true&theme=dark)
 
 <!--
 **jaroslaw91/jaroslaw91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
