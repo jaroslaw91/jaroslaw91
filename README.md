@@ -6,13 +6,9 @@
 ## Welcome to my GitHub 👋
 <i class="fab fa-linkedin-in"></i>
 
-<br />
-
 ## < Experience />
 ### Junior Front-end Developer
 💼 [AleRabat.com](https://alerabat.com/) / freelancing
-
-<br />
 
 ## < Education />
 ### JavaScript Developer & Node.js
@@ -20,8 +16,6 @@
 
 ### Graphics / multimedia
 🎓 [WSTI](https://www.wsti.pl/pl/) / 2014-2018
-
-<br />
 
 ## < Skils /> 
 ![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React)
@@ -35,8 +29,6 @@
 ![Babel](https://img.shields.io/badge/-Babel-black?style=for-the-badge&logo=Babel)
 ![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
-
-<br />
 
 ## < Contact />
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)</a>
