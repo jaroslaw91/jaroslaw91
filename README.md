@@ -1,3 +1,3 @@
 <center>
-<img src="./img/jk_logo.png" />
+<img src="https://raw.githubusercontent.com/jaroslaw91/jaroslaw91/master/img/jk_logo.png" />
 </center>
