@@ -6,16 +6,7 @@
 ## Welcome to my GitHub 👋
 <i class="fab fa-linkedin-in"></i>
 
-## < Experience />
-### Junior Front-end Developer
-💼 [AleRabat.com](https://alerabat.com/) / freelancing
-
-## < Education />
-### JavaScript Developer & Node.js
-🎓 [Coders Lab](https://coderslab.pl/pl/) / 2020-present
-
-### Graphics / multimedia
-🎓 [WSTI](https://www.wsti.pl/pl/) / 2014-2018
+### I'm a Junior Front-end Developer in [Landingi](https://landingi.com/).
 
 ## < Skils /> 
 ![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React)
