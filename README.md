@@ -1,14 +1,6 @@
 <center>
 <img src="https://raw.githubusercontent.com/jaroslaw91/jaroslaw91/master/img/jk_logo.png" style="padding-bottom:20px" />
-</center>
 
-# Hi! I'm Jarek
-## Welcome to my GitHub 👋
-<i class="fab fa-linkedin-in"></i>
-
-### I'm a Junior Front-end Developer in [Landingi](https://landingi.com/).
-
-## < Skils /> 
 ![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=React)
 ![ReactRouter](https://img.shields.io/badge/-REACTRouter-black?style=for-the-badge&logo=React-Router)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
@@ -22,8 +14,8 @@
 ![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
 
-## < Contact />
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)</a>
 <a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)</a>
 <a href="https://github.com/jaroslaw91">![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)</a>
 <a href="https://www.instagram.com/deathbassist_/">![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)</a>
+</center>
