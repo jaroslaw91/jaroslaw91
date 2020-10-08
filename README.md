@@ -13,6 +13,7 @@
 ![Babel](https://img.shields.io/badge/-Babel-black?style=for-the-badge&logo=Babel)
 ![npm](https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+![ReactIntl](https://img.shields.io/badge/-ReactIntl-black?style=for-the-badge&logo=ReactIntl)
 
 <a href="mailto:jaroslawkucharski91@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)</a>
 <a href="https://www.linkedin.com/in/jaros%C5%82aw-kucharski/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)</a>
